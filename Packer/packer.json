@@ -1,11 +1,11 @@
 {
     "variables": {
-        "client_id": "5e1a00fd-7455-4088-b3f3-62d79f09df15",
-        "client_secret": "fa1033cd-97c7-4ee8-8617-49d4a735ff1e",
-        "tenant_id": "af55a79e-f730-49d5-823a-7f10359ae05c",
-        "subscription_id": "bf7e3946-a0dd-4dc5-b459-fd1f1473d4c8",
+        "client_id": "",
+        "client_secret": "",
+        "tenant_id": "",
+        "subscription_id": "",
         "managed_image_prefix": "",
-        "managed_image_resource_group_name": "Test-RG", 
+        "managed_image_resource_group_name": "", 
       },
       
     "builders": [
